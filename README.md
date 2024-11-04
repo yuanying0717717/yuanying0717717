@@ -7,7 +7,7 @@ This is Yuanying Qu, a student at the University of Liverpool.
 - 👯 I'm looking to collaborate on projects that combine human motion studies with AI-driven healthcare applications or other fields where acoustic analysis of human movements can provide valuable insights.
 - 🤔 I'm optimizing the algorithms for real-time human posture detection in complex environments.
 - 💬 Ask me about my research in human kinematics, computer science-related topics such as data mining and big data analysis, or my teaching experiences in various programming languages and engineering courses.
-- 📫 How to reach me: [yuanying.qu14@gmail.com, LinkedIn: linkedin.com/in/qu-yuanying-178b42151]
+- 📫 How to reach me: [Gmail: yuanying.qu14@gmail.com, LinkedIn: linkedin.com/in/qu-yuanying-178b42151]
 
 
 <!--
