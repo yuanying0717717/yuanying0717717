@@ -1,0 +1,26 @@
+## Hi there 👋
+
+This is Yuanying Qu, came from China.
+
+- 🔭 I'm currently working on research related to human kinematics, computer science, and artificial intelligence, especially in the acoustic detection and classification of human postures.
+- 🌱 I'm currently learning advanced techniques in deep-learning-based human motion analysis to improve the accuracy of my research further.
+- 👯 I'm looking to collaborate on projects that combine human motion studies with AI-driven healthcare applications or other fields where acoustic analysis of human movements can provide valuable insights.
+- 🤔 I'm optimizing the algorithms for real-time human posture detection in complex environments.
+- 💬 Ask me about my research in human kinematics, computer science-related topics such as data mining and big data analysis, or my teaching experiences in various programming languages and engineering courses.
+- 📫 How to reach me: [yuanying.qu14@gmail.com, LinkedIn: linkedin.com/in/qu-yuanying-178b42151]
+
+
+<!--
+**yuanying0717717/yuanying0717717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
