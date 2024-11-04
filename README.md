@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is Yuanying Qu, came from China.
+This is Yuanying Qu, a student at the University of Liverpool.
 
 - 🔭 I'm currently working on research related to human kinematics, computer science, and artificial intelligence, especially in the acoustic detection and classification of human postures.
 - 🌱 I'm currently learning advanced techniques in deep-learning-based human motion analysis to improve the accuracy of my research further.
